@@ -1,0 +1,51 @@
+company_name,industry_sector,company_age_years,employee_count,promoter_reputation_score,promoter_experience_years,management_stability,litigation_cases_count,fraud_flag,recent_news_sentiment,gst_turnover_crore,revenue_growth_percent,profit_margin_percent,cashflow_status,loan_repayment_history_score,total_assets_crore,total_liabilities_crore,net_worth_crore,debt_to_equity_ratio,collateral_type,collateral_value_crore,sector_risk_level,market_demand_trend,cibil_score,gstr2a_vs_3b_mismatch
+Company_1,Steel,21,904,4,5,stable,2,0,positive,4.51,15,4,stable,8,30.78,17.31,13.47,1.58,commercial_property,22.52,low,declining,586,1
+Company_2,Manufacturing,16,736,6,9,stable,1,1,neutral,9.46,17,18,stable,4,33.33,2.16,31.17,1.07,machinery,20.53,medium,declining,687,0
+Company_3,IT Services,14,433,9,7,stable,3,0,negative,14.64,20,2,stable,10,18.25,8.96,9.29,0.87,industrial_land,21.08,low,growing,766,0
+Company_4,Manufacturing,5,390,8,28,stable,2,0,positive,6.5,3,15,fluctuating,7,12.33,4.1,8.23,0.82,commercial_property,23.54,high,declining,742,0
+Company_5,IT Services,25,684,5,25,moderate,0,0,neutral,12.59,16,11,weak,7,33.18,11.85,21.33,0.53,industrial_land,3.52,low,declining,795,1
+Company_6,IT Services,18,226,10,6,stable,4,1,positive,13.62,12,9,weak,5,18.98,4.89,14.09,2.02,machinery,24.94,high,growing,771,0
+Company_7,Construction,23,736,4,14,moderate,2,0,positive,10.68,7,15,fluctuating,4,9.01,6.61,2.4,2.39,commercial_property,19.27,medium,declining,715,0
+Company_8,IT Services,3,703,7,5,stable,2,0,neutral,3.56,11,4,fluctuating,5,31.69,14.6,17.09,0.33,commercial_property,19.91,low,growing,802,1
+Company_9,Construction,22,906,5,22,unstable,4,0,negative,3.23,10,3,stable,9,21.63,10.41,11.22,0.92,commercial_property,8.1,high,stable,774,0
+Company_10,Steel,5,160,5,7,stable,1,0,neutral,2.36,11,15,stable,8,5.74,3.44,2.3,0.75,commercial_property,15.53,medium,growing,610,1
+Company_11,Automobile,4,241,4,17,unstable,3,1,neutral,4.07,-1,16,stable,5,8.39,4.03,4.36,0.64,commercial_property,11.74,medium,growing,642,0
+Company_12,IT Services,3,231,10,12,stable,1,0,neutral,7.48,0,9,fluctuating,7,35.15,16.37,18.78,0.69,machinery,3.16,low,growing,698,0
+Company_13,Manufacturing,18,357,5,14,stable,3,0,positive,7.21,-5,13,weak,9,38.51,30.68,7.83,1.45,commercial_property,14.78,medium,growing,647,0
+Company_14,Steel,24,521,7,8,unstable,4,0,positive,2.27,13,16,weak,8,22.77,15.81,6.96,0.29,industrial_land,3.58,medium,declining,708,1
+Company_15,Manufacturing,12,976,6,29,stable,2,0,positive,10.54,13,17,fluctuating,8,16.0,4.87,11.13,2.5,industrial_land,5.01,low,declining,660,0
+Company_16,Manufacturing,12,1123,4,26,unstable,2,0,neutral,13.37,11,9,weak,4,17.93,3.95,13.98,2.36,industrial_land,21.18,medium,growing,613,0
+Company_17,Pharma,19,1040,6,6,stable,2,0,negative,9.67,18,18,fluctuating,10,30.12,6.5,23.62,0.84,industrial_land,16.59,medium,growing,619,1
+Company_18,Textiles,20,113,10,16,unstable,3,1,negative,9.07,3,6,stable,7,8.92,6.85,2.07,0.49,machinery,17.89,medium,growing,769,0
+Company_19,Textiles,10,372,10,30,stable,0,0,neutral,12.03,1,8,stable,5,35.94,12.87,23.07,1.89,machinery,16.28,medium,declining,750,1
+Company_20,Automobile,14,665,10,30,stable,1,0,positive,6.66,20,8,stable,9,6.36,3.45,2.91,0.64,machinery,6.59,medium,growing,648,0
+Company_21,Pharma,4,262,8,18,moderate,4,0,negative,14.18,6,17,fluctuating,7,9.04,7.08,1.96,1.59,commercial_property,6.11,low,stable,682,1
+Company_22,Manufacturing,24,443,6,18,stable,3,0,negative,8.52,1,9,fluctuating,8,33.23,18.89,14.34,0.92,industrial_land,23.63,high,stable,591,1
+Company_23,Manufacturing,8,656,7,22,stable,3,0,neutral,8.98,4,14,fluctuating,5,11.71,6.9,4.81,1.19,commercial_property,10.72,high,declining,663,0
+Company_24,Pharma,19,726,4,29,stable,1,1,negative,12.22,9,15,fluctuating,5,38.59,23.25,15.34,2.06,industrial_land,17.15,low,growing,693,0
+Company_25,Manufacturing,3,258,10,18,stable,3,0,positive,11.2,10,3,weak,8,18.44,7.1,11.34,1.27,commercial_property,5.39,low,growing,696,0
+Company_26,IT Services,16,1162,7,10,unstable,4,0,neutral,14.33,-1,15,fluctuating,6,36.2,18.52,17.68,1.93,commercial_property,18.54,medium,declining,750,0
+Company_27,Steel,7,348,5,17,unstable,3,0,positive,11.13,15,8,weak,5,13.21,4.88,8.33,0.35,machinery,22.54,medium,declining,650,0
+Company_28,Construction,21,819,7,5,moderate,3,1,neutral,13.72,8,2,fluctuating,10,25.44,14.76,10.68,2.25,machinery,21.7,high,declining,632,1
+Company_29,Automobile,8,997,5,24,unstable,1,0,positive,7.38,12,8,fluctuating,8,6.02,2.95,3.07,1.5,industrial_land,17.62,low,declining,704,0
+Company_30,Automobile,11,903,6,7,moderate,0,0,positive,6.62,-1,15,weak,8,12.41,4.59,7.82,0.32,machinery,19.51,low,declining,626,0
+Company_31,Manufacturing,6,1195,5,19,unstable,0,0,neutral,4.19,19,2,fluctuating,5,5.71,2.39,3.32,1.59,commercial_property,4.9,high,growing,773,0
+Company_32,Textiles,5,537,4,27,moderate,0,0,negative,9.27,4,4,weak,10,36.78,12.29,24.49,0.48,commercial_property,23.65,low,stable,728,1
+Company_33,Pharma,23,981,9,9,moderate,4,0,positive,1.67,8,12,weak,8,19.7,8.75,10.95,2.42,machinery,11.97,high,declining,597,0
+Company_34,Automobile,10,991,8,24,unstable,4,0,neutral,5.85,9,14,fluctuating,4,13.59,10.29,3.3,1.34,machinery,8.42,low,stable,791,0
+Company_35,Automobile,18,1177,10,12,unstable,2,0,neutral,9.0,6,9,weak,9,23.08,5.15,17.93,1.33,industrial_land,7.55,low,stable,667,0
+Company_36,Pharma,14,969,6,14,moderate,4,0,positive,7.89,7,8,stable,9,23.58,9.18,14.4,0.64,industrial_land,19.16,high,declining,658,1
+Company_37,Steel,9,646,5,16,stable,3,0,neutral,11.28,0,7,stable,9,39.18,17.39,21.79,1.43,machinery,8.51,low,growing,635,1
+Company_38,Textiles,4,557,10,20,stable,3,0,positive,13.28,4,5,fluctuating,7,25.09,10.48,14.61,0.37,commercial_property,12.13,high,growing,743,0
+Company_39,Construction,19,819,7,19,moderate,1,0,negative,9.03,-1,10,fluctuating,6,19.57,10.14,9.43,1.51,industrial_land,16.22,high,declining,601,0
+Company_40,Steel,16,962,9,24,moderate,1,0,neutral,10.42,19,7,stable,5,10.5,3.11,7.39,0.86,machinery,3.73,high,stable,740,0
+Company_41,Construction,7,186,4,10,moderate,2,0,negative,7.24,16,8,weak,10,24.06,13.17,10.89,1.51,machinery,22.89,medium,growing,816,0
+Company_42,Automobile,13,552,4,7,stable,3,0,negative,8.26,17,10,weak,8,22.28,3.27,19.01,2.39,commercial_property,2.92,medium,declining,759,0
+Company_43,Automobile,5,1002,6,18,moderate,4,1,neutral,13.87,19,6,weak,4,11.35,6.14,5.21,2.17,machinery,16.6,medium,declining,700,0
+Company_44,Automobile,19,42,9,22,moderate,4,0,neutral,7.64,4,13,stable,5,16.01,5.49,10.52,1.39,commercial_property,24.31,medium,declining,788,0
+Company_45,Manufacturing,22,530,9,10,moderate,2,0,negative,14.02,19,2,stable,8,20.33,11.96,8.37,1.14,industrial_land,4.79,low,stable,632,0
+Company_46,Textiles,15,430,8,21,unstable,2,0,positive,7.11,15,5,stable,6,21.89,9.33,12.56,1.98,machinery,12.51,medium,declining,707,0
+Company_47,Construction,20,812,7,15,stable,2,1,negative,13.18,-5,10,stable,8,20.63,9.02,11.61,1.08,machinery,9.65,low,stable,765,1
+Company_48,Steel,17,244,8,19,stable,1,1,negative,14.53,10,13,stable,7,9.42,7.34,2.08,2.2,industrial_land,9.64,low,stable,678,0
+Company_49,Manufacturing,18,1148,4,24,stable,0,0,positive,13.01,5,13,weak,9,35.08,11.9,23.18,2.32,industrial_land,9.28,high,growing,746,0
+Company_50,Pharma,16,338,5,21,moderate,1,0,negative,13.7,-2,4,weak,10,6.61,4.62,1.99,0.61,industrial_land,8.75,low,declining,693,0
